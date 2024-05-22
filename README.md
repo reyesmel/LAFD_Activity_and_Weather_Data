@@ -5,7 +5,7 @@ DSCI 510: Principles of Programming for Data Science<br />
 USC Viterbi School of Engineering Data Science Program<br />
 Final Project
 
-#### Websites Scraped
+#### Sources / Websites Scraped
 1. [LA’s Weather Source - laalmanac.com](http://www.laalmanac.com/weather/we04a.php)
 2. [LAFD Alert Page Source - lafd.org](https://www.lafd.org/alerts?incident_type=&neighborhood=&bureau=&page=0)
 3. [LA County’s Fire Department Public Information Office Twitter Account - @LACoFDPIO](https://x.com/lacofdpio?lang=en)
