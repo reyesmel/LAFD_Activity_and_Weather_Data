@@ -1,8 +1,8 @@
 # LAFD_Activity_and_Weather_Data
 
 #### Background
-DSCI 510: Principles of Programming for Data Science
-USC Viterbi School of Engineering Data Science Program
+DSCI 510: Principles of Programming for Data Science<br />
+USC Viterbi School of Engineering Data Science Program<br />
 Final Project
 
 #### Websites Scraped
@@ -17,12 +17,12 @@ Final Project
 * You can read about the results in the paper 510_FinalReport_MelissaReyes.pdf
 
 #### Packages Required
-import requests
-from bs4 import BeautifulSoup
-import sys
-import sqlite3
-import matplotlib.pyplot as plt
-import numpy as np
+import requests<br />
+from bs4 import BeautifulSoup<br />
+import sys<br />
+import sqlite3<br />
+import matplotlib.pyplot as plt<br />
+import numpy as np<br />
 
 #### Files Required:
 * scraper.py
